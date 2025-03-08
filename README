@@ -52,7 +52,17 @@ Enter primary color: red
 🎨 Example Output
 A high-quality AI-generated image of a red silk lehenga with puff sleeves, a sweetheart neck, and golden embroidery in a palace setting.
 
-📷 Output Sample
+
+Enter gender (girl/boy): girl
+Enter clothing type (saree, half saree, long frock, short frock, kurti, lehenga, etc.): saree
+Enter material (cotton, silk, net, georgette, etc.): net
+Enter sleeve type (full sleeves, sleeveless, puff sleeves, ruffle sleeves, etc.): ruffle sleeves
+Enter neck type (boat neck, round neck, sweetheart neck, V-shaped neck, etc.): round neck
+Enter occasion (wedding, festival, party, casual, etc.): festival
+Enter background/place (temple, palace, garden, studio, etc.): temple
+Enter any extra features (golden embroidery, mirror work, zari border, etc.): zari borde
+Enter primary color of the outfit: red
+
 
 💡 Future Improvements
 Web UI for easier interaction
