@@ -1,0 +1,7 @@
+diffusers
+transformers
+accelerate
+pillow
+torch
+torchvision
+torchaudio
